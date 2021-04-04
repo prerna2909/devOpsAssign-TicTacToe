@@ -1,6 +1,6 @@
 # DevopsAssignTictactoe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+This project is an angular project. The purpose of this assignment is GIT and GITHUB overview of Introduction of DevOps.
 
 ## Development server
 
